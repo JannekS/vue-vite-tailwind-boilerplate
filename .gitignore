@@ -26,3 +26,8 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# local env files
+.env
+.env.local
+.env.*.local
